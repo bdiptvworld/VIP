@@ -1,3 +1,4 @@
+#EXTM3U
 ## India Bangla ##
 ------------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="Indian Bangla", STAR JALSHA HD
@@ -257,3 +258,4 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
