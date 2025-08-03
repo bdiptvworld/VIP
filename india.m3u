@@ -2,7 +2,6 @@
 
 ## Indian ##
 ------------
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="India", Sony Max HD
 https://live.dinesh29.com.np/stream/livetv/sonymaxhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-cinema-hd.png" group-title="India", Zee Cinema HD
@@ -222,5 +221,6 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
 
 
