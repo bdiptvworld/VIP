@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Akash 8 TV" group-title="Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwzHDpfrjJG_BX6F6wYfV0MxR9fxfvnqXZw&s",Akash 8 TV
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",StarJalsha
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
@@ -44,4 +44,5 @@ https://38.96.178.201/live/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="RuposhiBangla" group-title="Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Oa1renOddAO4QjMvxzdsANvEpLnSuzD46g&s",RuposhiBangla
 https://38.96.178.201/live/RuposhiBangla/index.m3u8
+
 
