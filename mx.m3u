@@ -1,13 +1,8 @@
 #EXTM3U
-#DEVELOPED_BY_JITENDRA_PRO_DEV
-#AUTHOR:-JITENDRA_KUMAR
+#DEVELOPED_BY_RRIPTV
+#AUTHOR:-raton
 #DATE:- Sunday 18th of August 2024 01:17:06 PM
 
-#     ██  ██ ████████ ███████ ███   ██ ██████  ██████   █████        ██   ██ ██    ██ ███    ███  █████  ██████
-#     ██  ██    ██    ██      ████  ██ ██   ██ ██   ██ ██   ██       ██  ██  ██    ██ ████  ████ ██   ██ ██   ██
-#     ██  ██    ██    █████   ██ ██ ██ ██   ██ ██████  ███████ █████ █████   ██    ██ ██ ████ ██ ███████ ██████
-#██   ██  ██    ██    ██      ██  ████ ██   ██ ██   ██ ██   ██       ██  ██  ██    ██ ██  ██  ██ ██   ██ ██   ██
-# █████   ██    ██    ███████ ██   ███ ██████  ██   ██ ██   ██       ██   ██  ██████  ██      ██ ██   ██ ██   ██
 #EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mastiii - India's No.1 Music and Youth Channel" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video" group-title="mxplay" tvg-language="English" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1744.DistroTv.in/hi/1x1/208x208/1708970446051distrotv_thumbv_20210706_165835.jpg",Mastiii - India's No.1 Music and Youth Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 
@@ -427,4 +422,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="GlewedTV Spanish" tvg-type="LIVE" tvg-genre="Entertainment" group-title="mxplay" tvg-language="Spanish(Neutral)" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1189.DistroTv.in/es/1x1/208x208/test_pic1690459472816.jpg",GlewedTV Spanish
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
 
