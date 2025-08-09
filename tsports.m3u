@@ -1,11 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="T_SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2lhj4Z8vIWO1xsGLz32xh3-7bnnwD55tg&s" group-title="TSports", TSports 
 http://xui-11.98xyz.xyz:8080/jony@111@/jony@111@/2
-
+#EXTINF:-1 tvg-id="" tvg-name="T_SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2lhj4Z8vIWO1xsGLz32xh3-7bnnwD55tg&s" group-title="TSports", TSports 
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T_SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2lhj4Z8vIWO1xsGLz32xh3-7bnnwD55tg&s" group-title="TSports", TSports 
+http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T_SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2lhj4Z8vIWO1xsGLz32xh3-7bnnwD55tg&s" group-title="TSports", TSports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8|User-Agent=Mozila
-
 #EXTINF:-1 tvg-id="" tvg-name="T_SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2lhj4Z8vIWO1xsGLz32xh3-7bnnwD55tg&s" group-title="TSports", TSports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8|User-Agent=Mozila
+
 
 
