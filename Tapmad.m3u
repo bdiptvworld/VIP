@@ -1,0 +1,168 @@
+#EXTINF:-1  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1693208206324x432.jpg" group-title="Sports", Tensports
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+
+
+#EXTINF:-2  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1633512222056d2-65d9a-saama-tv-low.jpg" group-title="News", Samaa News
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8
+
+
+#EXTINF:-3  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/16419858521.jpg" group-title="Entertainment", Bol Entertainment
+https://tapmadlive.akamaized.net/tapmadold/bolent.smil/playlist.m3u8
+
+
+#EXTINF:-4  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1669637605324x432.jpg" group-title="Sports", Eurosport
+https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
+
+
+#EXTINF:-5  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/70010-cartoon-network-in-urdu-4.jpg" group-title="Kids", Cartoon Network Urdu
+https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8
+
+
+#EXTINF:-6  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/3981a-65d9a-92-news-low.jpg" group-title="News", 92 News
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/playlist.m3u8
+
+
+#EXTINF:-7  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1589969868324%20x%20432.jpg" group-title="Others", Outdoor TV
+https://tapmadlive.akamaized.net/tapmadold/outdoornew.smil/playlist.m3u8
+
+
+#EXTINF:-8  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1623143953M-1Thumbs--04.jpg" group-title="Sports", M-1 MMA
+https://hls-mma-tv.cdnvideo.ru/mma-tv/mmatv.smil/playlist.m3u8?zoid=tapmad
+
+
+#EXTINF:-9  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/72534-a-plus-entertainment.jpg" group-title="Entertainment", APlus
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8
+
+
+#EXTINF:-10  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/85fdc-324-x-432.jpg" group-title="Kids", Discovery Kids
+https://tapmadlive.akamaized.net/tapmadold/discoverykids.smil/playlist.m3u8
+
+
+
+#EXTINF:-11  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/996e5-animal-planet-4.jpg" group-title="Others", Animal Planet
+https://tapmadlive.akamaized.net/tapmadold/animal.smil/playlist.m3u8
+
+
+
+#EXTINF:-12  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1624891948324x432.jpg" group-title="Others", Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+
+
+#EXTINF:-13  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/84a98-channel-24.jpg" group-title="News", 24 News
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8
+
+
+#EXTINF:-14  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e0bf4-play-ent.jpg" group-title="Entertainment", Play Entertainment
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/playlist.m3u8
+
+
+#EXTINF:-15  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/06b64-mehran-tv.jpg" group-title="Others", Mehran
+https://tapmadlive.akamaized.net/tapmadold/mehran.smil/playlist.m3u8
+
+
+#EXTINF:-16  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d051f-atv.jpg" group-title="Entertainment", ATV
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8
+
+
+#EXTINF:-17  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/b03ef-film-world.jpg" group-title="Entertainment", Film World
+https://tapmadlive.akamaized.net/tapmadold/filmworld.smil/playlist.m3u8
+
+
+#EXTINF:-18  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/820ad-gnn-4.jpg" group-title="News", GNN
+https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8
+
+
+#EXTINF:-19  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9e716-khyber-entertainment.jpg" group-title="Entertainment", Khyber Entertainment
+https://tapmadlive.akamaized.net/tapmadold/khyber.smil/playlist.m3u8
+
+
+#EXTINF:-20  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/7d071-k21-news.jpg" group-title="News", K21 TV
+https://tapmadlive.akamaized.net/tapmadold/k21.smil/playlist.m3u8
+
+
+#EXTINF:-21  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/b736c-metro-one.jpg" group-title="Sports", Metro One
+https://tapmadlive.akamaized.net/tapmadold/metro.smil/playlist.m3u8
+
+
+#EXTINF:-22  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/5eb9a-dharti-tv.jpg" group-title="Others", Dharti TV
+https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/playlist.m3u8
+
+
+#EXTINF:-23  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9d634-trt-world.jpg" group-title="News", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-24  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/a1661-65d9a-bbc-world-news.jpg" group-title="News", BBC News
+https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8
+
+
+#EXTINF:-25  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d1e60-65d9a-see-tv-low.jpg" group-title="News", SEE TV
+https://tapmadlive.akamaized.net/tapmadold/seetv.smil/playlist.m3u8
+
+
+#EXTINF:-26  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/0a7b4-kohenoor.jpg" group-title="News", KOH-E-NOOR
+https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/playlist.m3u8
+
+
+#EXTINF:-27  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e526b-cnn-4.jpg" group-title="News", CNN
+https://tapmadlive.akamaized.net/tapmadold/cnn.smil/playlist.m3u8
+
+
+#EXTINF:-28  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/2ae68-kay-2.jpg" group-title="Others", KAY2
+https://tapmadlive.akamaized.net/tapmadold/k2.smil/playlist.m3u8
+
+
+#EXTINF:-29  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e8458-city-42.jpg" group-title="News", City 42
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/playlist.m3u8
+
+
+#EXTINF:-30  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/64758-voice-of-america.jpg" group-title="News", Voice Of America
+https://tapmadlive.akamaized.net/tapmadold/voa.smil/playlist.m3u8
+
+
+#EXTINF:-31  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d06a2-cf1e9-cartoon-network-4.jpg" group-title="Kids", Cartoon Network English
+https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8
+
+
+#EXTINF:-32  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/80723-al-jazeera.jpg" group-title="News", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+#EXTINF:-33  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d3023-4.jpg" group-title="News", Discovery
+https://tapmadlive.akamaized.net/tapmadold/discovery.smil/playlist.m3u8
+
+
+#EXTINF:-34  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/0a156-baby-tv-4.jpg" group-title="Kids", Baby TV
+https://tapmadlive.akamaized.net/tapmadold/babytv.smil/playlist.m3u8
+
+
+#EXTINF:-35  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1649059727Artboard5-100.jpg" group-title="Others", Makkah
+https://tapmadlive.akamaized.net/tapmadold/makkah.smil/playlist.m3u8
+
+
+#EXTINF:-36  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1649059915Artboard5-100.jpg" group-title="Others", Madina
+https://tapmadlive.akamaized.net/tapmadold/madina.smil/playlist.m3u8
+
+
+#EXTINF:-37  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/c3332-dw-tv.jpg" group-title="News", DW TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+#EXTINF:-38  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e34de-euro-news.jpg" group-title="News", Euro News
+https://tapmadlive.akamaized.net/tapmadold/euronews.smil/playlist.m3u8
+
+
+#EXTINF:-39  tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1611317202324x432.jpg" group-title="Sports", Motor Vision TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+
+#EXTINF:-40  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d0b57-awaz-tv.jpg" group-title="Others", AWAZ TV
+https://tapmadlive.akamaized.net/tapmadold/awaztv.smil/playlist.m3u8
+
+
+#EXTINF:-41  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/61c18-vsh-news.jpg" group-title="Others", Vsh News
+https://tapmadlive.akamaized.net/tapmadold/vsh.smil/playlist.m3u8
+
+
+#EXTINF:-42  tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9b2c5-khyber-new.jpg" group-title="Entertainment", Khyber
+https://tapmadlive.akamaized.net/tapmadold/khybernews.smil/playlist.m3u8?
